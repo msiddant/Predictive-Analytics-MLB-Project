@@ -1,3 +1,3 @@
 # Predictive-Analytics-MLB-Project
 Predictive Analytics (MLB) Project
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![MLB-Project](https://github.com/msiddant/Predictive-Analytics-MLB-Project/blob/master/MLB%20project.PNG?raw=true "MLB-Project")
